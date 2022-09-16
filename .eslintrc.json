@@ -21,7 +21,3 @@
     "rules": {
     }
 }
-
-// {
-//     "extends": ["next", "prettier"]
-//   }
