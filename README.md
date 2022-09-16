@@ -3,4 +3,4 @@
 
 - Into those precommit hooks add eslint + prettier 
 
-- Add also semver and autochangelog (Semantic Versioning)
+- Add also semver (Semantic Versioning) and autochangelog 
